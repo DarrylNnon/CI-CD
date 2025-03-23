@@ -2,8 +2,9 @@ PRODUCTION GRADE DEVSECOPS CICD Pipeline
 
 # Prereq: Create 2 EC2 servers
 
-Build server with 15GB storage - t2.mirco
-Sonarqube server with 4 GB memory - t2.medium
+* Jenkinsmaster with 10GB storage - t2.micro
+* Build server with 15GB storage - t2.medium
+* Sonarqube server with 4 GB memory - t2.medium
 
 ## Step 1: Ensure all the necessary plugins are installed in Jenkins Master
 
