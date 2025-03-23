@@ -8,12 +8,12 @@ PRODUCTION GRADE DEVSECOPS CICD Pipeline
 
 ## Step 1: Ensure all the necessary plugins are installed in Jenkins Master
 
-Parameterized trigger plugin
-Gitlab plugin
-Docker Pipeline
-Pipeline: AWS steps
-SonarQube Scanner
-Quality Gates
+* Parameterized trigger plugin
+* Gitlab plugin
+* Docker Pipeline
+* Pipeline: AWS steps
+* SonarQube Scanner
+* Quality Gates
 
 ### Step 2: Install Docker, Java8, Java11 & Trivy on Build Server
 
