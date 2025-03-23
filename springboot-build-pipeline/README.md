@@ -6,6 +6,9 @@ PRODUCTION GRADE DEVSECOPS CICD Pipeline
 * Build server with 15GB storage - t2.medium
 * Sonarqube server with 4 GB memory - t2.medium
 
+![image](https://github.com/user-attachments/assets/e3ff8c48-c14d-4c1e-852b-7bd7f4999518)
+
+
 ## Step 1: Ensure all the necessary plugins are installed in Jenkins Master
 
 * Parameterized trigger plugin
