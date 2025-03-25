@@ -63,3 +63,7 @@ Generate webhook & add the Jenkins URL as follows - http://URL:8080/sonarqube-we
 i encounter a couple of issues on my Build image wich i have to fix in order to move to the next stage. I will continuous tomorrow. debugging is making me confident cause repeating the same problem is becoming a routine which i enjoy.
 
 ![image](https://github.com/user-attachments/assets/8f4518c3-c863-480c-80b5-4285b3936d37)
+
+# final result of my Build pipeline
+
+![image](https://github.com/user-attachments/assets/c7e10148-b604-4b6e-ba0b-8b021b171f02)
