@@ -62,4 +62,7 @@ is a tool that allow me to specify my desired state and it will achieve so my ac
 
 This approach is secure because i dont need a pipeline or a user to go through the kubectl command. So i keep my yml file which is my desired state and let the argocd to do the magic.
 
+![image](https://github.com/user-attachments/assets/8c7e19d9-1ecd-4b73-963d-48626866d4c3)
+
+![image](https://github.com/user-attachments/assets/36ef32bd-a50a-422c-b708-7b4175762adc)
 
